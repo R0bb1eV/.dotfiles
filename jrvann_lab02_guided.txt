@@ -1,0 +1,9 @@
+Name: Joseph Robert Vann
+Summary of lab:
+First we used the vim command, and used vim .vimrc to create a file and wrote the above configurations. We used :wq to exit and save. Following that we used the cat .vimrc to display the text and once again vim .vimrc to open it to confirm that the changes from the configurations we wrote saved. This time we used :q! to exit, which didn't saved the file. Then cp .vimrc ~/Desktop/nameOfTextFile was used to rename and save the file to our desktop directory. The hardest part of this was just getting started and figuring out how to type commands. Once I figured it out, it became quite clear.
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
